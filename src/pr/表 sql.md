@@ -1,6 +1,0 @@
-```
-create table user (
- 
-)
-```
-
