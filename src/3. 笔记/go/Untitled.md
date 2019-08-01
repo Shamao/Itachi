@@ -15,7 +15,7 @@
 	m.SetAddressHeader("Cc", "休闲鞋@126.com", "xxx")
 	m.SetHeader("Subject", "Hello!")
 	m.SetBody("text/html", "Hello <b>Bob</b> and <i>Cora</i>!")
-	m.Attach("./x.txt") // 该路径为错误的 使用绝对地址
+	m.Attach("./x.txt") // 该路径为错误的 使用绝对地址 其实还不会
 	d := gomail.NewDialer("smtp.qq.com", 587, "xxx@qq.com", "")
 
 	// Send the email to Bob, Cora and Dan.
