@@ -10,7 +10,7 @@
 
 4. Base64的所用表
 
-   ![image-20190729101338333](./assets/image-20190729101338333.png)
+   ![image-20190729101338333](https://tva1.sinaimg.cn/large/006tNbRwly1ga287yxi97j30nu0u8q5r.jpg)
 
 
 
