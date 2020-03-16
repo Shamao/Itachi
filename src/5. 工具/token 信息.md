@@ -4,7 +4,7 @@
 | intellij | perm:cGVwcGVyZXI=.OTItMTY3NA==.myx9nEQE7b9oBuJ6EYshY9bV0ysCh8 |
 | dingding | dinge2c25e43acdf8b3fee0f45d8e4f7c288                         |
 |          | Gqj3ACT0of1798XTXV_BNTzNikp09mmLgXI8UWOGsH1khjrS6AFYqqfUuAAJ9zOu |
-|          |                                                              |
+| github   | d2533468549e4f311faf102addbc768656f74922                     |
 |          |                                                              |
 |          |                                                              |
 |          |                                                              |
