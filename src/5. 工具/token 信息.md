@@ -5,7 +5,7 @@
 | dingding | dinge2c25e43acdf8b3fee0f45d8e4f7c288                         |
 |          | Gqj3ACT0of1798XTXV_BNTzNikp09mmLgXI8UWOGsH1khjrS6AFYqqfUuAAJ9zOu |
 |          |                                                              |
-|          |                                                              |
+| GitHub   | a0ed8e6afe5c6dd44196962dfa93c8364d49e52e                     |
 |          |                                                              |
 |          |                                                              |
 |          |                                                              |
